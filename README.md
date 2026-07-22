@@ -14,7 +14,7 @@ I need to organise stuff and this is kinda useful for my *portfolio.*
 
 **How are these projects made?**
 * Made when: I was bored
-* I had to (School work)
+* I had to (programming class)
 
 **What languages I know**
 * Basic Python
