@@ -1,5 +1,6 @@
 # light-projects
 
+Go to the main site [here.](https://j3al0us.github.io/light-projects/main-site/)
 ### Description
 This is a GitHub repo that was made to host all my random projects.
 
