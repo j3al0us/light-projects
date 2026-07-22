@@ -1,4 +1,4 @@
-# project-light
+# light-projects
 
 ### Description
 This is a GitHub repo that was made to host all my random projects.
@@ -21,7 +21,7 @@ I need to organise stuff and this is kinda useful for my *portfolio.*
 * Basic Lua
 * HTML/CSS
 
-**What I plan to add/make**
+**Planned/WIP**
 * Main site
 * AI projects
 * Python stuff
